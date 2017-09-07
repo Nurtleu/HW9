@@ -1,0 +1,6 @@
+F:\C#\HW9\HW9\bin\Debug\HW9.exe.config
+F:\C#\HW9\HW9\bin\Debug\HW9.exe
+F:\C#\HW9\HW9\bin\Debug\HW9.pdb
+F:\C#\HW9\HW9\obj\Debug\HW9.csprojResolveAssemblyReference.cache
+F:\C#\HW9\HW9\obj\Debug\HW9.exe
+F:\C#\HW9\HW9\obj\Debug\HW9.pdb
